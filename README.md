@@ -1,5 +1,5 @@
                                                     pipex
 
-Recode the function pipi()
+Recode the function pipe()
 
 Use: ./pipex infile cmd1 cmd2 outfile
